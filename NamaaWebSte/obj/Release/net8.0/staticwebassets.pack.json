@@ -1,0 +1,593 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\03.jpg",
+      "PackagePath": "staticwebassets\\Areas\\03.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\AI_Pic.png",
+      "PackagePath": "staticwebassets\\Areas\\AI_Pic.png"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\Automation.jpg",
+      "PackagePath": "staticwebassets\\Areas\\Automation.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\Building_Risk.jpg",
+      "PackagePath": "staticwebassets\\Areas\\Building_Risk.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\Env_Management.jpg",
+      "PackagePath": "staticwebassets\\Areas\\Env_Management.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\Flood.jpg",
+      "PackagePath": "staticwebassets\\Areas\\Flood.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\Flood_.jpg",
+      "PackagePath": "staticwebassets\\Areas\\Flood_.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\Hydro1.jpg",
+      "PackagePath": "staticwebassets\\Areas\\Hydro1.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\IT GIS.jpeg",
+      "PackagePath": "staticwebassets\\Areas\\IT GIS.jpeg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\Integration.jpg",
+      "PackagePath": "staticwebassets\\Areas\\Integration.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\Maadi.jfif",
+      "PackagePath": "staticwebassets\\Areas\\Maadi.jfif"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\PMO.jpg",
+      "PackagePath": "staticwebassets\\Areas\\PMO.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\RailWay_Harbour.jpg",
+      "PackagePath": "staticwebassets\\Areas\\RailWay_Harbour.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\Trans_Plann.jpg",
+      "PackagePath": "staticwebassets\\Areas\\Trans_Plann.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\aa.jfif",
+      "PackagePath": "staticwebassets\\Areas\\aa.jfif"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\bb.jfif",
+      "PackagePath": "staticwebassets\\Areas\\bb.jfif"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\gpr3.jfif",
+      "PackagePath": "staticwebassets\\Areas\\gpr3.jfif"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\الصور-03.jpg",
+      "PackagePath": "staticwebassets\\Areas\\الصور-03.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\الصور-04.jpg",
+      "PackagePath": "staticwebassets\\Areas\\الصور-04.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\الصور-146.jpg",
+      "PackagePath": "staticwebassets\\Areas\\الصور-146.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\الصور-147.jpg",
+      "PackagePath": "staticwebassets\\Areas\\الصور-147.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\الصور-150.jpg",
+      "PackagePath": "staticwebassets\\Areas\\الصور-150.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\الصور-160.jpg",
+      "PackagePath": "staticwebassets\\Areas\\الصور-160.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\الصور-162.jpg",
+      "PackagePath": "staticwebassets\\Areas\\الصور-162.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\الصور-168.jpg",
+      "PackagePath": "staticwebassets\\Areas\\الصور-168.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\الصور-179.jpg",
+      "PackagePath": "staticwebassets\\Areas\\الصور-179.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\الصور-182.jpg",
+      "PackagePath": "staticwebassets\\Areas\\الصور-182.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\الصور-184.jpg",
+      "PackagePath": "staticwebassets\\Areas\\الصور-184.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\الصور-210.jpg",
+      "PackagePath": "staticwebassets\\Areas\\الصور-210.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\الصور-224.jpg",
+      "PackagePath": "staticwebassets\\Areas\\الصور-224.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\الصور-38.jpg",
+      "PackagePath": "staticwebassets\\Areas\\الصور-38.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Areas\\الصور-74.jpg",
+      "PackagePath": "staticwebassets\\Areas\\الصور-74.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\A.jpg",
+      "PackagePath": "staticwebassets\\Equipements\\A.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\Company.jpg",
+      "PackagePath": "staticwebassets\\Equipements\\Company.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\Falling_W.jpeg",
+      "PackagePath": "staticwebassets\\Equipements\\Falling_W.jpeg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\GPR- GSSI.jpeg",
+      "PackagePath": "staticwebassets\\Equipements\\GPR- GSSI.jpeg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\GPR.jpg",
+      "PackagePath": "staticwebassets\\Equipements\\GPR.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\Logoos.png",
+      "PackagePath": "staticwebassets\\Equipements\\Logoos.png"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\MFV.jpeg",
+      "PackagePath": "staticwebassets\\Equipements\\MFV.jpeg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\MMS.jpg",
+      "PackagePath": "staticwebassets\\Equipements\\MMS.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\Mostafa.jfif",
+      "PackagePath": "staticwebassets\\Equipements\\Mostafa.jfif"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\Mostafa.jpeg",
+      "PackagePath": "staticwebassets\\Equipements\\Mostafa.jpeg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\PFT.jpg",
+      "PackagePath": "staticwebassets\\Equipements\\PFT.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\bb1.jfif",
+      "PackagePath": "staticwebassets\\Equipements\\bb1.jfif"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\cc.jfif",
+      "PackagePath": "staticwebassets\\Equipements\\cc.jfif"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\الصور-207.jpg",
+      "PackagePath": "staticwebassets\\Equipements\\الصور-207.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\الصور-2071.jpg",
+      "PackagePath": "staticwebassets\\Equipements\\الصور-2071.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Equipements\\الصور-2072.jpg",
+      "PackagePath": "staticwebassets\\Equipements\\الصور-2072.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\News\\Logoos (1).png",
+      "PackagePath": "staticwebassets\\News\\Logoos (1).png"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\02.jpg",
+      "PackagePath": "staticwebassets\\Projects\\02.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\03.jpg",
+      "PackagePath": "staticwebassets\\Projects\\03.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\2jpZK1xwjCfS5rxNYkOIN8LqpML 1.png",
+      "PackagePath": "staticwebassets\\Projects\\2jpZK1xwjCfS5rxNYkOIN8LqpML 1.png"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Ahram.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Ahram.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Alamein.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Alamein.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Araft.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Araft.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Asset_Bank.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Asset_Bank.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Bridge_Inspection.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Bridge_Inspection.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Cament.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Cament.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Car3_Equipment1.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Car3_Equipment1.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Cons_Clean_Asir.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Cons_Clean_Asir.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Cons_Clean_Bisha.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Cons_Clean_Bisha.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Cons_Clean_Jizan.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Cons_Clean_Jizan.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Const_Clean_Mekkah.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Const_Clean_Mekkah.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Const_Eastern_Provinces.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Const_Eastern_Provinces.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Constr_Clean_Light_Riaydh.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Constr_Clean_Light_Riaydh.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Contact_Quality.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Contact_Quality.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Contract_Superv_Riyadh.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Contract_Superv_Riyadh.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Fahd.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Fahd.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Fardan.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Fardan.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Gamarek_Club.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Gamarek_Club.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Hair Bridge_Ghanimiah.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Hair Bridge_Ghanimiah.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Harbour.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Harbour.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Hurgada_Resort.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Hurgada_Resort.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Hydro1.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Hydro1.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Hydro_AlAkhal.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Hydro_AlAkhal.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Hydro_Quseir.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Hydro_Quseir.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Informal.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Informal.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Jalawi.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Jalawi.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Jerash.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Jerash.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\King Fiasal Bridge.jpg",
+      "PackagePath": "staticwebassets\\Projects\\King Fiasal Bridge.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\King Khaled U.jpg",
+      "PackagePath": "staticwebassets\\Projects\\King Khaled U.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Lazer_Scan.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Lazer_Scan.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Lights_Riyadh.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Lights_Riyadh.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Long_Beach.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Long_Beach.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Maadi.jfif",
+      "PackagePath": "staticwebassets\\Projects\\Maadi.jfif"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Makkah_Road.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Makkah_Road.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Montazah.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Montazah.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Mostafa.jfif",
+      "PackagePath": "staticwebassets\\Projects\\Mostafa.jfif"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\NEOM.jpg",
+      "PackagePath": "staticwebassets\\Projects\\NEOM.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\NEOM_.jpg",
+      "PackagePath": "staticwebassets\\Projects\\NEOM_.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Nasr_Hair Tunnel.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Nasr_Hair Tunnel.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\New Capital City.jpg",
+      "PackagePath": "staticwebassets\\Projects\\New Capital City.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\New Capital Service Center.jpg",
+      "PackagePath": "staticwebassets\\Projects\\New Capital Service Center.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\October_Units.jpg",
+      "PackagePath": "staticwebassets\\Projects\\October_Units.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Olayan.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Olayan.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Omar_Intersec.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Omar_Intersec.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\PMO_Roads.jpg",
+      "PackagePath": "staticwebassets\\Projects\\PMO_Roads.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Pavement_Maint_Riyadh.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Pavement_Maint_Riyadh.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Public_Tranp.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Public_Tranp.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Qual_Ras_Hekma.png",
+      "PackagePath": "staticwebassets\\Projects\\Qual_Ras_Hekma.png"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Quality_Ain_Sokhna.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Quality_Ain_Sokhna.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Quality_Movenpick.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Quality_Movenpick.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Risk_Project.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Risk_Project.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Riyadh_Cleaning.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Riyadh_Cleaning.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Riyadh_Enhancement.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Riyadh_Enhancement.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Riyadh_Visual_Polut.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Riyadh_Visual_Polut.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Shorouk Bank.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Shorouk Bank.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Signage.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Signage.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Struc_Condition_Build.png",
+      "PackagePath": "staticwebassets\\Projects\\Struc_Condition_Build.png"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Tahleya.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Tahleya.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Taif.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Taif.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Turki.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Turki.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\Urban_Madina_Comp.jpg",
+      "PackagePath": "staticwebassets\\Projects\\Urban_Madina_Comp.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\WhatsApp Image 2024-10-09 at 8.31.35 AM.jpeg",
+      "PackagePath": "staticwebassets\\Projects\\WhatsApp Image 2024-10-09 at 8.31.35 AM.jpeg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\cc.jfif",
+      "PackagePath": "staticwebassets\\Projects\\cc.jfif"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\gpr2.jfif",
+      "PackagePath": "staticwebassets\\Projects\\gpr2.jfif"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\gpr3.jfif",
+      "PackagePath": "staticwebassets\\Projects\\gpr3.jfif"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\image (3).png",
+      "PackagePath": "staticwebassets\\Projects\\image (3).png"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\linkedin.png",
+      "PackagePath": "staticwebassets\\Projects\\linkedin.png"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\study_Roads_Riyadh.jpg",
+      "PackagePath": "staticwebassets\\Projects\\study_Roads_Riyadh.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\الصور-110.jpg",
+      "PackagePath": "staticwebassets\\Projects\\الصور-110.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\الصور-111.jpg",
+      "PackagePath": "staticwebassets\\Projects\\الصور-111.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\الصور-112.jpg",
+      "PackagePath": "staticwebassets\\Projects\\الصور-112.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\الصور-119.jpg",
+      "PackagePath": "staticwebassets\\Projects\\الصور-119.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\الصور-174.jpg",
+      "PackagePath": "staticwebassets\\Projects\\الصور-174.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\الصور-194.jpg",
+      "PackagePath": "staticwebassets\\Projects\\الصور-194.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\الصور-199.jpg",
+      "PackagePath": "staticwebassets\\Projects\\الصور-199.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\الصور-207.jpg",
+      "PackagePath": "staticwebassets\\Projects\\الصور-207.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\الصور-234.jpg",
+      "PackagePath": "staticwebassets\\Projects\\الصور-234.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Projects\\الصور-89.jpg",
+      "PackagePath": "staticwebassets\\Projects\\الصور-89.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Services\\A.jpg",
+      "PackagePath": "staticwebassets\\Services\\A.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Services\\Construction.jpg",
+      "PackagePath": "staticwebassets\\Services\\Construction.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Services\\Maadi1.jfif",
+      "PackagePath": "staticwebassets\\Services\\Maadi1.jfif"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Services\\aa.jfif",
+      "PackagePath": "staticwebassets\\Services\\aa.jfif"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Services\\menu.png",
+      "PackagePath": "staticwebassets\\Services\\menu.png"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Services\\الصور-03.jpg",
+      "PackagePath": "staticwebassets\\Services\\الصور-03.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Services\\الصور-107.jpg",
+      "PackagePath": "staticwebassets\\Services\\الصور-107.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Services\\الصور-108.jpg",
+      "PackagePath": "staticwebassets\\Services\\الصور-108.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Services\\الصور-113.jpg",
+      "PackagePath": "staticwebassets\\Services\\الصور-113.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Services\\الصور-226.jpg",
+      "PackagePath": "staticwebassets\\Services\\الصور-226.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Services\\ب.jpg",
+      "PackagePath": "staticwebassets\\Services\\ب.jpg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Services\\ت.jpeg",
+      "PackagePath": "staticwebassets\\Services\\ت.jpeg"
+    },
+    {
+      "Id": "D:\\NamaaAngularWebSite\\NamaaWebSiteServer\\NamaaWebSite\\wwwroot\\Services\\تInformation Technology.jpg",
+      "PackagePath": "staticwebassets\\Services\\تInformation Technology.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.NamaaWebSite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.NamaaWebSite.props",
+      "PackagePath": "build\\NamaaWebSite.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NamaaWebSite.props",
+      "PackagePath": "buildMultiTargeting\\NamaaWebSite.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.NamaaWebSite.props",
+      "PackagePath": "buildTransitive\\NamaaWebSite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,14 @@
+@
+
+
+
+
+
+
+
+_HostAddress = http://localhost:5176
+
+GET {{PL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
